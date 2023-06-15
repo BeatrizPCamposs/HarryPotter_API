@@ -1,0 +1,7 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#00000000" /> <!-- Define a cor de fundo transparente -->
+    <stroke
+        android:color="#eeba30"
+        android:width="2dp" /> <!-- Espessura da borda -->
+    <corners android:radius="8dp" /> <!-- Raio dos cantos do card -->
+</shape>

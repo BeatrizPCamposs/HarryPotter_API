@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">Harry Potter</string>
+
+    //Tela de Splash --
+    <string name="btn1">AGITE O CELULAR E VEJA A MÁGICA</string>
+
+    //Tela Home --
+    <string name="textper">ﾠﾠﾠﾠPERSONAGENS...</string>
+    <string name="textfilm">ﾠﾠﾠﾠFILMES...</string>
+
+    //Tela Filmes --
+    <string name="filme">ﾠﾠﾠﾠHARRY POTTER...</string>
+    <string name="resumo">ﾠﾠHarry Potter é um garoto órfão que vive infeliz com seus tios, os Dursleys. Ele recebe uma carta contendo um convite para ingressar em Hogwarts, uma famosa escola especializada em formar jovens bruxos.ﾠﾠﾠﾠﾠﾠﾠﾠ</string>
+    <string name="linkfilme">ASSISTIR FILME</string>
+    <string name="trailer1">ﾠﾠﾠﾠTRAILER...</string>
+
+    //Tela - Filme 1
+    <string name="filme1">ﾠﾠﾠﾠHARRY POTTER E A PEDRA FILOSOFAL...</string>
+    <string name="resumo1">ﾠﾠInicialmente, os garotos acreditavam que a Pedra Filosofal, que se encontrava protegida em Hogwarts, fosse alvo de Severo Snape, professor da escola, para que este se tornasse rico. Mas os garotos descobrem que Voldemort, enfraquecido, está à procura da Pedra para se tornar um grande bruxo novamente.ﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ</string>
+
+
+    //Tela - Filme 2
+    <string name="filme2">ﾠﾠﾠﾠHARRY POTTER E A CÂMARA SECRETA...</string>
+    <string name="resumo2">ﾠﾠApós as sofríveis férias na casa dos tios, Harry Potter se prepara para voltar a Hogwarts e começar seu segundo ano na escola de bruxos. Na véspera do início das aulas, a estranha criatura Dobby aparece em seu quarto e o avisa de que voltar é um erro e que algo muito ruim pode acontecer se Harry insistir em continuar os estudos de bruxaria. O garoto, no entanto, está disposto a correr o risco e se livrar do lar problemático.ﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ</string>
+
+    //Tela - Filme 3
+    <string name="filme3">ﾠﾠﾠﾠHARRY POTTER E O PRISIONEIRO DE AZKABAN...</string>
+    <string name="resumo3">ﾠﾠÉ o início do terceiro ano na escola de bruxaria Hogwarts. Harry, Ron e Hermione têm muito o que aprender. Mas uma ameaça ronda a escola e ela se chama Sirius Black. Após doze anos encarcerado na prisão de Azkaban, ele consegue escapar e volta para vingar seu mestre, Lord Voldemort. Para piorar, os Dementores, guardas supostamente enviados para proteger Hogwarts e seguir os passos de Black, parecem ser ameaças ainda mais perigosas.ﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ</string>
+
+    //Tela - Filme 4
+    <string name="filme4">ﾠﾠﾠﾠHARRY POTTER E O CÁLICE DE FOGO...</string>
+    <string name="resumo4">ﾠﾠHarry retorna para seu quarto ano na Escola de Magia e Bruxaria de Hogwarts, junto com os seus amigos Ron e Hermione. Desta vez, acontece um torneio entre as três maiores escola de magia, com um participante selecionado de cada escola, pelo Cálice de Fogo. O nome de Harry aparece, mesmo não tendo se inscrito, e ele precisa competir.ﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ</string>
+
+    //Tela - Filme 5
+    <string name="filme5">ﾠﾠﾠﾠHARRY POTTER E A ORDEM DA FÊNIX...</string>
+    <string name="resumo5">ﾠﾠﾠﾠO que acontece Harry Potter e a Ordem da Fênix? Resultado de imagem para resumo do filme HARRY POTTER EA ORDEM DA FÊNIX harry potter eo calice de fogo. Após o ataque, Harry é resgatado por um grupo de aurores, que são bruxos que lutam contra bruxos das trevas e levam ele para a sede da Ordem da Fênix, uma sociedade secreta criada por Dumbledore para combater Voldemort no passado, mas devido aos últimos acontecimentos, foi resgatada.ﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ</string>
+
+    //Tela - Filme 6
+    <string name="filme6">ﾠﾠﾠﾠHARRY POTTER E O ENIGMA DO PRÍNCIPE...</string>
+    <string name="resumo6">ﾠﾠﾠﾠNo sexto ano de Harry em Hogwarts, Lord Voldemort e seus Comensais da Morte estão criando o terror nos mundos bruxo e trouxa. Dumbledore convence seu velho amigo Horácio Slughorn para retornar a Hogwarts como professor de poções após Harry encontrar um estranho livro escolar. Draco Malfoy se esforça para realizar uma ação destinada por Voldemort, enquanto Dumbledore e Harry secretamente trabalham juntos a fim de descobrir o método para destruir o Lorde das Trevas uma vez por todas.ﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ</string>
+
+    //Tela - Filme 7
+    <string name="filme7">ﾠﾠﾠﾠHARRY POTTER E AS RELÍQUIAS DA MORTE...</string>
+    <string name="resumo7">ﾠﾠﾠﾠA intenção é despistar Voldemort sobre quem é o Harry verdadeiro, de forma que ele possa chegar seguro à Toca, casa dos Weasley. A missão é bem sucedida, mas logo a situação se torna ainda mais perigosa. O Ministro da Magia Rufus Scrimgeour (Bill Nighy) é morto e, em seu lugar, assume um dos asseclas de Voldemort. Harry e seus amigos passam a ser caçados impiedosamente, obrigando que ele, Rony e Hermione fujam. Precisando mudar constantemente de lugar, eles elaboram um plano para encontrar e destruir as horcruxes que podem eliminar Voldemort de uma vez por todas.ﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ</string>
+
+    //Tela de personagens --
+    <string name="casa">CASA DE HOGWARTS</string>
+    <string name="datanasc">DATA DE NASCIMENTO</string>
+    <string name="patrono">PATRONO</string>
+    <string name="sobre">SOBRE</string>
+
+    //Tela do personagem 1
+    <string name="per1">HARRY POTTER</string>
+    <string name="casa1">Grifinória</string>
+    <string name="nasc1">31/07/1980</string>
+    <string name="patrono1">Cervo</string>
+    <string name="sobre1">Um dos personagens mais importantes, Harry Potter é o único filho de James e Lily Potter, membros originais da chamada Ordem da Fênix. Considerado um dos bruxos mais famosos da modernidade.</string>
+
+    //Tela do personagem 2
+    <string name="per2">HERMIONE GRANGER</string>
+    <string name="nasc2">19/09/1979</string>
+    <string name="patrono2">LONTRA</string>
+    <string name="sobre2">Hermione Jean Granger nasceu dentro de uma família trouxa. Aos 11 anos de idade, ela entendeu que era uma bruxa e foi aceita na Escola de Magia e Bruxaria de Hogwarts.</string>
+
+    //Tela do personagem 3
+    <string name="per3">RONALD WEASLEY</string>
+    <string name="nasc3">01/03/1980</string>
+    <string name="patrono3">CÃO</string>
+    <string name="sobre3">Ronald Bilius Weasley é o quinto filho de Arthur e Molly Weasley, irmão de Bill, Charlie, Percy, Fred, George e Ginny. Em 1991, ele passou a frequentar a Escola de Magia e Bruxaria de Hogwarts, onde foi classificado para a Grifinória.</string>
+
+    //Tela do personagem 4
+    <string name="per4">DRACO MOLFOY</string>
+    <string name="casa2">SONSERINA</string>
+    <string name="nasc4">05/06/1980</string>
+    <string name="patrono4">NENHUM</string>
+    <string name="sobre4">Draco Lucius Malfoy é o único filho de Lucius e Narcissa Malfoy. Filho de um Comensal da Morte, ele cresceu acreditando que era importante ser sangue-puro.</string>
+
+    //Tela Menu
+    <string name="menu_dropdown_hint">ﾠﾠﾠﾠﾠﾠﾠﾠSelecione uma opção</string>
+    <string name="option_personagens">Personagens</string>
+    <string name="option_filmes">Filmes</string>
+
+
+    //Tela de Localização
+    <string name="escola">ﾠﾠﾠﾠHOGWARTS...</string>
+    <string name="resumoescola">ﾠﾠA Escola de Magia e Bruxaria de Hogwarts, ou simplesmente Hogwarts, é um internato de magia para bruxos e bruxas com idades entre onze e dezessete anos.</string>
+    <string name="loc">ﾠﾠﾠﾠONDE ESTÁ LOCALIZADO ESSE CENÁRIO QUEﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠAPARECE NOS FILMES?</string>
+    <string name="local">ﾠﾠﾠﾠPara muitos fãs de Harry Potter, a localização do cenário que se passa a saga, ainda é um grande mistério, entretanto, agora esse mistério foi desvendado! Clique no botão abaixo e receba a localização em primeira mão.</string>
+    <string name="acessarloc">ACESSAR LOCALIZAÇÃO</string>
+
+    //Tela de contato
+    <string name="txt1">ﾠﾠﾠNOME:</string>
+    <string name="txt2">ﾠﾠﾠE-MAIL:</string>
+    <string name="txt3">ﾠﾠﾠCOMENTÁRIO:</string>
+    <string name="btnenviar">ENVIAR</string>
+    <string name="btnvoltar">VOLTAR</string>
+    <string name="btnexibir">EXIBIR</string>
+
+    //Tela de resultado de mensagens da tela contato
+    <string name="txtmensagem">MENSAGEM ENVIADA COM SUCESSO!</string>
+
+    //Tela de cadastro
+    <string name="cadas">CADASTRE-SE!</string>
+
+    //Tela de login
+    <string name="log">LOGIN:</string>
+</resources>

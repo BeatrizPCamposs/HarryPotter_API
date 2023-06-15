@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fundooo"
+    tools:context=".login">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:context=".MainActivity"
+        tools:layout_editor_absoluteY="362dp">
+
+
+        <ImageView
+            android:id="@+id/imageVieew"
+            android:layout_width="312dp"
+            android:layout_height="49dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="15dp"
+            app:srcCompat="@drawable/logoharry" />
+
+        <TextView
+            android:id="@+id/textView22"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/imageVieew"
+            android:layout_marginLeft="130dp"
+            android:layout_marginTop="115dp"
+            android:layout_marginRight="20dp"
+            android:fontFamily="sans-serif-black"
+            android:text="@string/log"
+            android:textColor="@color/Dourado"
+            android:textSize="35dp" />
+
+        <EditText
+            android:id="@+id/username1"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView22"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="89dp"
+            android:layout_marginRight="20dp"
+            android:backgroundTint="#959090"
+            android:hint="Nome de usuário"
+            android:textColorHint="#959090" />
+
+        <EditText
+            android:id="@+id/password1"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/username1"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="35dp"
+            android:layout_marginRight="20dp"
+            android:inputType="textPassword"
+            android:backgroundTint="#959090"
+            android:hint="Senha"
+            android:textColorHint="#959090" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnsignin1"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/password1"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="72dp"
+            android:layout_marginRight="20dp"
+            android:background="@color/Dourado"
+            android:fontFamily="sans-serif-black"
+            android:text="Entrar"
+            android:textSize="15dp" />
+
+
+    </RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

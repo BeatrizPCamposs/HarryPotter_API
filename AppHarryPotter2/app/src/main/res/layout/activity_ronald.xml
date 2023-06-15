@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fundooo"
+    tools:context=".ronald">
+
+    <Button
+        android:id="@+id/btnhome7"
+        android:layout_width="70dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="12dp"
+        android:background="#00FFFFFF"
+        android:onClick="menuu"
+        app:icon="@android:drawable/ic_menu_sort_by_size"
+        app:iconSize="40dp"
+        app:iconTint="@color/white"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imgtopo7"
+        android:layout_width="159dp"
+        android:layout_height="41dp"
+        android:layout_marginTop="19dp"
+        android:layout_marginEnd="116dp"
+        android:layout_marginBottom="36dp"
+        app:layout_constraintBottom_toTopOf="@+id/imageView6"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/logoharry" />
+
+    <ImageView
+        android:id="@+id/characterImageView2"
+        android:layout_width="220dp"
+        android:layout_height="220dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:elevation="100dp"
+        android:outlineAmbientShadowColor="@color/preto"
+        android:outlineSpotShadowColor="@color/preto"
+        android:scaleType="centerCrop"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imgtopo7" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardView"
+        android:layout_width="353dp"
+        android:layout_height="506dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="32dp"
+        android:outlineAmbientShadowColor="@color/white"
+        android:outlineSpotShadowColor="@color/white"
+        app:cardBackgroundColor="@color/white"
+        app:cardCornerRadius="20dp"
+        app:cardElevation="35dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent">
+
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="506dp">
+
+            <TextView
+                android:id="@+id/slugTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Slug"
+                android:textColor="@color/white"
+                tools:layout_editor_absoluteX="163dp"
+                tools:layout_editor_absoluteY="34dp" />
+
+            <TextView
+                android:id="@+id/nameTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="158dp"
+                android:layout_marginTop="70dp"
+                android:layout_marginEnd="158dp"
+                android:fontFamily="sans-serif-condensed-medium"
+                android:text="Name"
+                android:textAlignment="center"
+                android:textColor="@color/vermelho"
+                android:textSize="30sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.515"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/slugTextView" />
+
+            <TextView
+                android:id="@+id/patronusTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="145dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="151dp"
+                android:fontFamily="sans-serif-medium"
+                android:text="Patronus"
+                android:textAlignment="center"
+                android:textColor="@color/preto"
+                android:textSize="16sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView20" />
+
+            <TextView
+                android:id="@+id/bornTextView"
+                android:layout_width="230dp"
+                android:layout_height="40dp"
+                android:layout_marginStart="250dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="60dp"
+                android:fontFamily="sans-serif-medium"
+                android:text="Born"
+                android:textAlignment="center"
+                android:textColor="@color/preto"
+                android:textSize="16sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView14" />
+
+            <TextView
+                android:id="@+id/genderTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="151dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="152dp"
+                android:fontFamily="sans-serif-medium"
+                android:text="Gender"
+                android:textAlignment="center"
+                android:textColor="@color/preto"
+                android:textSize="16sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView21" />
+
+            <TextView
+                android:id="@+id/houseTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="158dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="159dp"
+                android:fontFamily="sans-serif-medium"
+                android:text="House"
+                android:textAlignment="center"
+                android:textColor="@color/preto"
+                android:textSize="16sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView15" />
+
+            <TextView
+                android:id="@+id/textView14"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="82dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginEnd="82dp"
+                android:fontFamily="sans-serif-medium"
+                android:text="NASCIMENTO"
+                android:textAlignment="center"
+                android:textColor="@color/vermelho"
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/nameTextView" />
+
+            <TextView
+                android:id="@+id/textView15"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="158dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="163dp"
+                android:fontFamily="sans-serif-medium"
+                android:text="CASA"
+                android:textAlignment="center"
+                android:textColor="@color/vermelho"
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/patronusTextView" />
+
+            <TextView
+                android:id="@+id/textView20"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="130dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="131dp"
+                android:fontFamily="sans-serif-medium"
+                android:text="@string/patrono"
+                android:textAlignment="center"
+                android:textColor="@color/vermelho"
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/genderTextView" />
+
+            <TextView
+                android:id="@+id/textView21"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="142dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginEnd="140dp"
+                android:fontFamily="sans-serif-medium"
+                android:text="GÊNERO"
+                android:textAlignment="center"
+                android:textColor="@color/vermelho"
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/bornTextView" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>
