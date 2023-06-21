@@ -10,6 +10,7 @@
   
 - [ Desenvolvedores ](#Desenvolvedores)
 - [ Funcionalidades da Aplicação ](#funcionalidades)
+- [ URL do vídeo mostrando as funcionalidades da aplicação ](#1)
 - [ URL da Documentação ](#1)
 - [ URL de Acesso a API ](#2)
 - [ Métodos Disponíveis ](#3)
@@ -38,6 +39,9 @@
 <p Align="justify"> ﾠﾠA tela Home dá ao usuário acesso as demais activities, possuindo um menu no canto superior a esquerda. Nele é apresentado uma barra de pesquisa e um campo de seleção, contendo opções de redirecionamento a tela dos personagens e filmes, possuintes de diversas outras activities, as quais são especificas para determinado, personagem ou filme (elas contêm mais informações sobre cada filme e personagem, específico). Outro ponto importante a se destacar é que nessas opções do menu ocorre a implementação da API. </p>
 
 <p Align="justify"> ﾠﾠA PotterDB é uma API com dados do universo Harry Potter, e nela são contidas informações e dados, sobre os personagens e filmes da saga, sendo esta sua principal funcionalidade. </p>
+
+## 🔗 URL do vídeo mostrando a funcionalidade da aplicação
+https://youtu.be/VSSZjv5GxnA
 
 ## 🔗 URL da Documentação
 https://github.com/danielschuster-muc/potter-db
