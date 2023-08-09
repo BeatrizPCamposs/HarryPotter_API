@@ -241,5 +241,5 @@ Vamos chamar este GET através de uma linha de comando, como por exemplo: (https
 
 
 ![hpp drawio (1)](https://github.com/BeatrizPCamposs/HarryPotter_API/assets/101807045/78a3cdb0-418f-4fe4-89d6-cc59d6b39f64)
+![diadia](https://github.com/BeatrizPCamposs/HarryPotter_API/assets/101807045/0e5bd43b-9092-495d-beb0-d4b9b708b000)
 
-![image](https://github.com/BeatrizPCamposs/HarryPotter_API/assets/101807045/ef39e38f-c33f-4561-9e36-2c14f6ea3427)
