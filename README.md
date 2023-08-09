@@ -232,8 +232,13 @@ Vamos chamar este GET através de uma linha de comando, como por exemplo: (https
 <summary><b>Filmes e Filme Específico</summary></b>
 <h1 align="center"><img src= "https://user-images.githubusercontent.com/101807045/236342105-24283d19-ddc8-4e7d-801f-4958b430575b.png" heigth="600px" width="800px"/>
 </details>
+
  
 <details close="part4">
 <summary><b>Personagens e Personagem Específico</summary></b>
 <h1 align="center"><img src= "https://user-images.githubusercontent.com/101807045/236342479-80d99473-0f5c-4299-9138-f84af7dfec2d.png" heigth="300px" width="500px"/></h1>
 </details>
+
+
+![hpp drawio (1)](https://github.com/BeatrizPCamposs/HarryPotter_API/assets/101807045/78a3cdb0-418f-4fe4-89d6-cc59d6b39f64)
+
