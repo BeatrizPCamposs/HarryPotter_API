@@ -24,7 +24,7 @@
 </details>
 
 ## :computer: Desenvolvedores
-**Desenvolvido por:** Beatriz Pereira Campos e Emilynn Nogueira Calixto Zabala; <br>
+**Desenvolvido por:** Beatriz Pereira Campos e Leonardo Ferreira Mazzuco Matias; <br>
 **Turma:** 3ºDS;
 
 ## :hammer: Funcionalidades da Aplicação
@@ -198,15 +198,30 @@ Vamos chamar este GET através de uma linha de comando, como por exemplo: (https
 </details>
  
  
-## :chart_with_upwards_trend:  Diagrama de Classes e Diagrama do Banco de Dados
+## :chart_with_upwards_trend:  Diagrama de Classes, Diagrama do Banco de Dados e MER
 <details close="classe">
-<summary><b>Diagrama de Classes</summary></b>
+<summary><b>Diagrama de Classes (API - PotterDB)</summary></b>
 <h1 align="center"><img src= "https://user-images.githubusercontent.com/101807045/236312558-da40ec17-2eb6-45d4-836e-c308c62d03ce.png" heigth="800px" width="1000px"/></h1>
 </details>
  
+<details close="classee">
+<summary><b>Diagrama de Classes (API - HarryPotter (NOVA))</summary></b>
+<h1 align="center"><img src= "https://github.com/BeatrizPCamposs/HarryPotter_API/assets/101807045/5a4a51dd-433f-4bd0-978c-ad879683d4b2" heigth="600px" width="600px"/></h1>
+</details>
+ 
 <details close="banco">
-<summary><b>Diagrama do Banco de Dados</summary></b>
+<summary><b>Diagrama do Banco de Dados (API - PotterDB)</summary></b>
 <h1 align="center"><img src= "https://user-images.githubusercontent.com/101807045/236313053-9de16228-c41a-415c-bb09-a89b35eea7a5.png" heigth="800px" width="1000px"/></h1>
+</details>
+
+<details close="bancoo">
+<summary><b>Diagrama do Banco de Dados (API - HarryPotter (NOVA))</summary></b>
+<h1 align="center"><img src= "https://github.com/BeatrizPCamposs/HarryPotter_API/assets/101807045/4facceaf-20e9-4530-8a6f-b512fc4beb33" heigth="600px" width="600px"/></h1>
+</details>
+ 
+<details close="MER">
+<summary><b>MER (API - HarryPotter (NOVA))</summary></b>
+<h1 align="center"><img src= "https://github.com/BeatrizPCamposs/HarryPotter_API/assets/101807045/6248cda9-0fa4-45d6-a754-a5112dabc09c" heigth="600px" width="600px"/></h1>
 </details>
  
 ## 🗺️ Mapa de Navegação da Aplicação
@@ -238,8 +253,3 @@ Vamos chamar este GET através de uma linha de comando, como por exemplo: (https
 <summary><b>Personagens e Personagem Específico</summary></b>
 <h1 align="center"><img src= "https://user-images.githubusercontent.com/101807045/236342479-80d99473-0f5c-4299-9138-f84af7dfec2d.png" heigth="300px" width="500px"/></h1>
 </details>
-
-
-![hpp drawio (1)](https://github.com/BeatrizPCamposs/HarryPotter_API/assets/101807045/78a3cdb0-418f-4fe4-89d6-cc59d6b39f64)
-![diadia](https://github.com/BeatrizPCamposs/HarryPotter_API/assets/101807045/0e5bd43b-9092-495d-beb0-d4b9b708b000)
-
