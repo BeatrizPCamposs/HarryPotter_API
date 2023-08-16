@@ -206,9 +206,9 @@ Vamos chamar este GET através de uma linha de comando, como por exemplo: (https
  
 <details close="classee">
 <summary><b>Diagrama de Classes (API - HarryPotter (NOVA))</summary></b>
-<h1 align="center"><img src= "https://github.com/BeatrizPCamposs/HarryPotter_API/assets/101807045/5a4a51dd-433f-4bd0-978c-ad879683d4b2" heigth="600px" width="600px"/></h1>
+<h1 align="center"><img src= "https://github.com/BeatrizPCamposs/HarryPotter_API/assets/101807045/d6a275f8-3108-44cb-906c-de10314fdd6e" heigth="600px" width="600px"/></h1>
 </details>
- 
+
 <details close="banco">
 <summary><b>Diagrama do Banco de Dados (API - PotterDB)</summary></b>
 <h1 align="center"><img src= "https://user-images.githubusercontent.com/101807045/236313053-9de16228-c41a-415c-bb09-a89b35eea7a5.png" heigth="800px" width="1000px"/></h1>
@@ -216,12 +216,12 @@ Vamos chamar este GET através de uma linha de comando, como por exemplo: (https
 
 <details close="bancoo">
 <summary><b>Diagrama do Banco de Dados (API - HarryPotter (NOVA))</summary></b>
-<h1 align="center"><img src= "https://github.com/BeatrizPCamposs/HarryPotter_API/assets/101807045/4facceaf-20e9-4530-8a6f-b512fc4beb33" heigth="600px" width="600px"/></h1>
+<h1 align="center"><img src= "https://github.com/BeatrizPCamposs/HarryPotter_API/assets/101807045/6e6d6657-20ef-4b32-9ecd-c1ad55e2e553" heigth="600px" width="600px"/></h1>
 </details>
  
 <details close="MER">
 <summary><b>MER (API - HarryPotter (NOVA))</summary></b>
-<h1 align="center"><img src= "https://github.com/BeatrizPCamposs/HarryPotter_API/assets/101807045/6248cda9-0fa4-45d6-a754-a5112dabc09c" heigth="600px" width="600px"/></h1>
+<h1 align="center"><img src= "https://github.com/BeatrizPCamposs/HarryPotter_API/assets/101807045/f2fbd51d-d84a-463f-925f-93e3a0284d85" heigth="600px" width="600px"/></h1>
 </details>
  
 ## 🗺️ Mapa de Navegação da Aplicação
