@@ -16,7 +16,7 @@
 - [ Métodos Disponíveis ](#3)
 - [ Filtragem ](#5)
 - [ Atributos soclitados por cada método ](#4)
-- [ Diagrama de Classes e Diagrama do Banco de Dados ](#1)
+- [ Diagrama de Classes, Diagrama do Banco de Dados e MER ](#1)
 - [ Mapa de Navegação da Aplicação ](#1)
 - [ Protótipo da Aplicação](#1)
 
