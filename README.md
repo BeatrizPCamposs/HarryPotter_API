@@ -227,8 +227,9 @@ Vamos chamar este GET através de uma linha de comando, como por exemplo: (https
 ## 🗺️ Mapa de Navegação da Aplicação
 <details close="mapa">
 <summary><b>Mapa de Navegação</summary></b>
-<h1 align="center"><img src= "https://github.com/BeatrizPCamposs/HarryPotter_API/assets/101807045/ea8b07f2-2a2a-4424-9dd2-59dcda562f10" heigth="700px" width="900px"/></h1>
+<h1 align="center"><img src= "https://github.com/BeatrizPCamposs/HarryPotter_API/assets/101807045/967e1772-ad95-4a29-b6b7-bafc6140a3d7" heigth="700px" width="900px"/></h1>
 </details>
+
  
  ## :pushpin: Protótipo da Aplicação
  Protótipo disponível em: ("https://www.figma.com/file/w0VV8BlFHCfYQUzdpNb9bV/Prot%C3%B3tipo-App-Harry-Potter---API?type=design&node-id=0%3A1&t=JSIeGcGgULknkfwW-1")
