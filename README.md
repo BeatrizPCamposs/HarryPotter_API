@@ -227,7 +227,7 @@ Vamos chamar este GET através de uma linha de comando, como por exemplo: (https
 ## 🗺️ Mapa de Navegação da Aplicação
 <details close="mapa">
 <summary><b>Mapa de Navegação</summary></b>
-<h1 align="center"><img src= "https://user-images.githubusercontent.com/101807045/236352694-64aecab0-bd31-467c-b199-068b2de2efbf.jpg" heigth="700px" width="900px"/></h1>
+<h1 align="center"><img src= "https://github.com/BeatrizPCamposs/HarryPotter_API/assets/101807045/ea8b07f2-2a2a-4424-9dd2-59dcda562f10" heigth="700px" width="900px"/></h1>
 </details>
  
  ## :pushpin: Protótipo da Aplicação
