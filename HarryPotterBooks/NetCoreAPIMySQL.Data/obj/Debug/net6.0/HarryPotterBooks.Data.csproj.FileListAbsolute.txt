@@ -1,0 +1,15 @@
+C:\Users\dudin\Desktop\HarryPotterBooks\NetCoreAPIMySQL.Data\bin\Debug\net6.0\HarryPotterBooks.Data.deps.json
+C:\Users\dudin\Desktop\HarryPotterBooks\NetCoreAPIMySQL.Data\bin\Debug\net6.0\HarryPotterBooks.Data.dll
+C:\Users\dudin\Desktop\HarryPotterBooks\NetCoreAPIMySQL.Data\bin\Debug\net6.0\HarryPotterBooks.Data.pdb
+C:\Users\dudin\Desktop\HarryPotterBooks\NetCoreAPIMySQL.Data\bin\Debug\net6.0\HarryPotterBooks.Model.dll
+C:\Users\dudin\Desktop\HarryPotterBooks\NetCoreAPIMySQL.Data\bin\Debug\net6.0\HarryPotterBooks.Model.pdb
+C:\Users\dudin\Desktop\HarryPotterBooks\NetCoreAPIMySQL.Data\obj\Debug\net6.0\HarryPotterBooks.Data.csproj.AssemblyReference.cache
+C:\Users\dudin\Desktop\HarryPotterBooks\NetCoreAPIMySQL.Data\obj\Debug\net6.0\HarryPotterBooks.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudin\Desktop\HarryPotterBooks\NetCoreAPIMySQL.Data\obj\Debug\net6.0\HarryPotterBooks.Data.AssemblyInfoInputs.cache
+C:\Users\dudin\Desktop\HarryPotterBooks\NetCoreAPIMySQL.Data\obj\Debug\net6.0\HarryPotterBooks.Data.AssemblyInfo.cs
+C:\Users\dudin\Desktop\HarryPotterBooks\NetCoreAPIMySQL.Data\obj\Debug\net6.0\HarryPotterBooks.Data.csproj.CoreCompileInputs.cache
+C:\Users\dudin\Desktop\HarryPotterBooks\NetCoreAPIMySQL.Data\obj\Debug\net6.0\HarryPotterBooks.Data.csproj.CopyComplete
+C:\Users\dudin\Desktop\HarryPotterBooks\NetCoreAPIMySQL.Data\obj\Debug\net6.0\HarryPotterBooks.Data.dll
+C:\Users\dudin\Desktop\HarryPotterBooks\NetCoreAPIMySQL.Data\obj\Debug\net6.0\refint\HarryPotterBooks.Data.dll
+C:\Users\dudin\Desktop\HarryPotterBooks\NetCoreAPIMySQL.Data\obj\Debug\net6.0\HarryPotterBooks.Data.pdb
+C:\Users\dudin\Desktop\HarryPotterBooks\NetCoreAPIMySQL.Data\obj\Debug\net6.0\ref\HarryPotterBooks.Data.dll
