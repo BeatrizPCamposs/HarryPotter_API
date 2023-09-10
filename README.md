@@ -21,15 +21,15 @@
 
 ## :hammer: Funcionalidades da Aplicação
 > Aplicação desenvolvida para os fãs da saga Harry Potter, com informações sobre os personagens, filmes e livros.
-* [Funcionalidades da Aplicação](https://github.com/BeatrizPCamposs/HarryPotter_API/edit/main/README.md)
+* [Funcionalidades da Aplicação](https://github.com/BeatrizPCamposs/HarryPotter_API/wiki)
   
 ***
 ## 📚 HarryPotterBooks - Criando nova API
 
 > API desenvolvida para consulta de Livros da saga HarryPotter.
-* [HarryPotterBooks - Criando nova API (Livros)](https://github.com/BeatrizPCamposs/HarryPotter_API/edit/main/README.md)
+* [HarryPotterBooks - Criando nova API (Livros)](https://github.com/BeatrizPCamposs/HarryPotter_API/wiki/%F0%9F%93%9A-HarryPotterBooks-%E2%80%90-Criando-nova-API)
 
 ***
 ## 🎥 PotterDB - Antiga API
 > Utilizando API  para consulta de Filmes e Personagens da saga HarryPotter.
-* [PotterDB - Antiga API (Filmes e Personagens)](https://github.com/BeatrizPCamposs/HarryPotter_API/edit/main/README.md)
+* [PotterDB - Antiga API (Filmes e Personagens)](https://github.com/BeatrizPCamposs/HarryPotter_API/wiki/%F0%9F%8E%A5-PotterDB-%E2%80%90-Antiga-API)
