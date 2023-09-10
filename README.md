@@ -1,4 +1,4 @@
-<h2>API: PotterDB<h2>
+<h2>API: PotterDB e HarryPotterBooks<h2>
 
 <h1 align="center"><img src= "https://user-images.githubusercontent.com/101807045/229957740-54ce8e39-fdef-4c6e-9a9d-3ce9f55fa2ae.png" heigth="250px" width="250px"/></h1>
 <p align="center">
@@ -10,13 +10,8 @@
   
 - [ Desenvolvedores ](#Desenvolvedores)
 - [ Funcionalidades da Aplicação ](#funcionalidades)
-- [ URL do vídeo mostrando as funcionalidades da aplicação ](#1)
-- [ URL da Documentação ](#1)
-- [ URL de Acesso a API ](#2)
-- [ Métodos Disponíveis ](#3)
-- [ Filtragem ](#5)
-- [ Atributos soclitados por cada método ](#4)
-- [ Diagrama de Classes, Diagrama do Banco de Dados e MER ](#1)
+- [ HarryPotterBooks - (Criando nova API) ](#novaapi)
+- [ PotterDB - (Antiga API) ](#antigaapi)
 - [ Mapa de Navegação da Aplicação ](#1)
 - [ Protótipo da Aplicação](#1)
 
@@ -38,8 +33,29 @@
 
 <p Align="justify"> ﾠﾠA tela Home dá ao usuário acesso as demais activities, possuindo um menu no canto superior a esquerda. Nele é apresentado uma barra de pesquisa e um campo de seleção, contendo opções de redirecionamento a tela dos personagens e filmes, possuintes de diversas outras activities, as quais são especificas para determinado, personagem ou filme (elas contêm mais informações sobre cada filme e personagem, específico). Outro ponto importante a se destacar é que nessas opções do menu ocorre a implementação da API. </p>
 
-<p Align="justify"> ﾠﾠA PotterDB é uma API com dados do universo Harry Potter, e nela são contidas informações e dados, sobre os personagens e filmes da saga, sendo esta sua principal funcionalidade. </p>
+<p Align="justify"> ﾠﾠA PotterDB é uma API que contém dados do universo de Harry Potter, fornecendo informações sobre os personagens e filmes da saga. Já a HarryPotterBooks é uma API criada com o propósito principal de oferecer uma ampla gama de informações sobre os livros da saga Harry Potter. </p>
 
+
+***
+## 📚 HarryPotterBooks - Criando nova API
+
+> API desenvolvida para consulta de Livros da saga HarryPotter.
+<details close="novaapi">
+<summary><b>HarryPotterBooks - Criando nova API (Livros)</summary></b>
+ 
+* [Descrição, Métodos e Rotas](https://github.com/BeatrizPCamposs/HarryPotter_API/edit/main/README.md)
+* [Diagramas](https://github.com/BeatrizPCamposs/HarryPotter_API/edit/main/README.md)
+* [Vídeo de Funcionamento](https://github.com/BeatrizPCamposs/HarryPotter_API/edit/main/README.md)
+</details>
+
+
+
+***
+## 🎥 PotterDB - Antiga API
+> Utilizando API  para consulta de Filmes e Personagens da saga HarryPotter.
+<details close="antigaapi">
+<summary><b>PotterDB - Antiga API (Filmes e Personagens)</summary></b>
+ 
 ## 🔗 URL do vídeo mostrando a funcionalidade da aplicação
 https://youtu.be/VSSZjv5GxnA
 
@@ -48,12 +64,10 @@ https://github.com/danielschuster-muc/potter-db
 
 ## 🔗 URL de Acesso a API
 https://api.potterdb.com/
- 
- 
 ## 📒 Métodos Disponíveis
 Para acessar os dados das APIs é necessário fazer um GET solicitando os seguintes endpoints.
 Vamos chamar este GET através de uma linha de comando, como por exemplo: (https://api.potterdb.com/v1/characters/harry-potter).
- 
+
 <details close="metodo1">
 <summary><b>Livros</summary></b>
  
@@ -223,16 +237,18 @@ Vamos chamar este GET através de uma linha de comando, como por exemplo: (https
 <summary><b>MER (API - HarryPotter (NOVA))</summary></b>
 <h1 align="center"><img src= "https://github.com/BeatrizPCamposs/HarryPotter_API/assets/101807045/f2fbd51d-d84a-463f-925f-93e3a0284d85" heigth="600px" width="600px"/></h1>
 </details>
- 
+</details>
+
+***
 ## 🗺️ Mapa de Navegação da Aplicação
 <details close="mapa">
 <summary><b>Mapa de Navegação</summary></b>
 <h1 align="center"><img src= "https://github.com/BeatrizPCamposs/HarryPotter_API/assets/101807045/967e1772-ad95-4a29-b6b7-bafc6140a3d7" heigth="700px" width="900px"/></h1>
 </details>
-
  
- ## :pushpin: Protótipo da Aplicação
- Protótipo disponível em: ("https://www.figma.com/file/w0VV8BlFHCfYQUzdpNb9bV/Prot%C3%B3tipo-App-Harry-Potter---API?type=design&node-id=0%3A1&t=JSIeGcGgULknkfwW-1")
+***
+## :pushpin: Protótipo da Aplicação
+> Protótipo disponível em: ("https://www.figma.com/file/w0VV8BlFHCfYQUzdpNb9bV/Prot%C3%B3tipo-App-Harry-Potter---API?type=design&node-id=0%3A1&t=JSIeGcGgULknkfwW-1")
  
 <details close="part1">
 <summary><b>Splash, Cadastro e Login</summary></b>
