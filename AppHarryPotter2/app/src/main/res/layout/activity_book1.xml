@@ -62,7 +62,7 @@
                 app:srcCompat="@drawable/fundobook1" />
 
             <TextView
-                android:id="@+id/titulobook"
+                android:id="@+id/titulobookTextView"
                 android:layout_width="match_parent"
                 android:layout_height="28dp"
                 android:fontFamily="sans-serif-condensed"
@@ -70,7 +70,7 @@
                 android:textSize="16sp" />
 
             <me.biubiubiu.justifytext.library.JustifyTextView
-                android:id="@+id/sumariobook"
+                android:id="@+id/sumariobookTextView"
                 android:layout_width="match_parent"
                 android:layout_height="120dp"
                 android:layout_marginLeft="30dp"
@@ -89,7 +89,7 @@
                 android:textSize="16sp" />
 
             <me.biubiubiu.justifytext.library.JustifyTextView
-                android:id="@+id/autorlivro"
+                android:id="@+id/autorlivroTextView"
                 android:layout_width="match_parent"
                 android:layout_height="28dp"
                 android:layout_marginLeft="30dp"
@@ -108,7 +108,7 @@
                 android:textSize="16sp" />
 
             <me.biubiubiu.justifytext.library.JustifyTextView
-                android:id="@+id/anolanc"
+                android:id="@+id/anolancTextView"
                 android:layout_width="match_parent"
                 android:layout_height="28dp"
                 android:layout_marginLeft="30dp"
@@ -127,7 +127,7 @@
                 android:textSize="16sp" />
 
             <me.biubiubiu.justifytext.library.JustifyTextView
-                android:id="@+id/ordem"
+                android:id="@+id/ordemTextView"
                 android:layout_width="match_parent"
                 android:layout_height="28dp"
                 android:layout_marginLeft="30dp"
@@ -146,7 +146,7 @@
                 android:textSize="16sp" />
 
             <me.biubiubiu.justifytext.library.JustifyTextView
-                android:id="@+id/numpages"
+                android:id="@+id/numpagesTextView"
                 android:layout_width="match_parent"
                 android:layout_height="28dp"
                 android:layout_marginLeft="30dp"

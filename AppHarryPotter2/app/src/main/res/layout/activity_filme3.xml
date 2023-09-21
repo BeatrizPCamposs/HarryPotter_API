@@ -81,7 +81,7 @@
                 android:textSize="16sp" />
 
             <TextView
-                android:id="@+id/titulobook"
+                android:id="@+id/titulobookTextView"
                 android:layout_width="match_parent"
                 android:layout_height="28dp"
                 android:fontFamily="sans-serif-condensed"
@@ -89,7 +89,7 @@
                 android:textSize="16sp" />
 
             <me.biubiubiu.justifytext.library.JustifyTextView
-                android:id="@+id/sumariobook"
+                android:id="@+id/sumariobookTextView"
                 android:layout_width="match_parent"
                 android:layout_height="182dp"
                 android:layout_marginLeft="30dp"
