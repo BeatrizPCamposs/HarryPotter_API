@@ -21,7 +21,7 @@ public class menu extends AppCompatActivity {
         menuDropdown = findViewById(R.id.menudp);
 
         // Lista de opções do Spinner
-        String[] options = {"Selecione uma opção", "Personagens", "Filmes"};
+        String[] options = {"Selecione uma opção", "Personagens", "Filmes", "Livros"};
         ArrayAdapter<String> adapter = new ArrayAdapter<>(this, android.R.layout.simple_spinner_item, options);
 
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
@@ -37,6 +37,9 @@ public class menu extends AppCompatActivity {
                     startActivity(intent);
                 } else if (selectedItem.equals("Filmes")) {
                     Intent intent = new Intent(menu.this, filmes.class);
+                    startActivity(intent);
+                } else if (selectedItem.equals("Livros")) {
+                    Intent intent = new Intent(menu.this, books.class);
                     startActivity(intent);
                 }
             }

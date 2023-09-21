@@ -36,6 +36,7 @@
         <entry key="..\:/Users/bialp/Desktop/GitHub/HarryPotter_API/AppHarryPotter2/app/src/main/res/drawable/circle_background.xml" value="0.1875" />
         <entry key="..\:/Users/bialp/Desktop/GitHub/HarryPotter_API/AppHarryPotter2/app/src/main/res/drawable/persona_background.xml" value="0.1875" />
         <entry key="..\:/Users/bialp/Desktop/GitHub/HarryPotter_API/AppHarryPotter2/app/src/main/res/drawable/spinner_background.xml" value="0.1835" />
+        <entry key="..\:/Users/bialp/Desktop/GitHub/HarryPotter_API/AppHarryPotter2/app/src/main/res/layout/activity_books.xml" value="0.21666666666666667" />
         <entry key="..\:/Users/bialp/Desktop/GitHub/HarryPotter_API/AppHarryPotter2/app/src/main/res/layout/activity_cadastro.xml" value="0.21666666666666667" />
         <entry key="..\:/Users/bialp/Desktop/GitHub/HarryPotter_API/AppHarryPotter2/app/src/main/res/layout/activity_character_card.xml" value="0.21666666666666667" />
         <entry key="..\:/Users/bialp/Desktop/GitHub/HarryPotter_API/AppHarryPotter2/app/src/main/res/layout/activity_character_details.xml" value="0.21666666666666667" />
@@ -60,12 +61,13 @@
         <entry key="..\:/Users/bialp/Desktop/GitHub/HarryPotter_API/AppHarryPotter2/app/src/main/res/layout/activity_personagem4.xml" value="0.21666666666666667" />
         <entry key="..\:/Users/bialp/Desktop/GitHub/HarryPotter_API/AppHarryPotter2/app/src/main/res/layout/activity_personagens.xml" value="0.2" />
         <entry key="..\:/Users/bialp/Desktop/GitHub/HarryPotter_API/AppHarryPotter2/app/src/main/res/layout/activity_ronald.xml" value="0.1984375" />
+        <entry key="..\:/Users/bialp/Desktop/GitHub/HarryPotter_API/AppHarryPotter2/app/src/main/res/layout/books_card_layout.xml" value="0.21666666666666667" />
         <entry key="..\:/Users/bialp/Desktop/GitHub/HarryPotter_API/AppHarryPotter2/app/src/main/res/layout/card_background.xml" value="0.21666666666666667" />
         <entry key="..\:/Users/bialp/Desktop/GitHub/HarryPotter_API/AppHarryPotter2/app/src/main/res/layout/character_card_layout.xml" value="0.1" />
         <entry key="..\:/Users/bialp/Desktop/GitHub/HarryPotter_API/AppHarryPotter2/app/src/main/res/layout/dropdown_item.xml" value="0.1" />
         <entry key="..\:/Users/bialp/Desktop/GitHub/HarryPotter_API/AppHarryPotter2/app/src/main/res/layout/harry_potter.xml" value="0.264" />
         <entry key="..\:/Users/bialp/Desktop/GitHub/HarryPotter_API/AppHarryPotter2/app/src/main/res/layout/menu.xml" value="0.21666666666666667" />
-        <entry key="..\:/Users/bialp/Desktop/GitHub/HarryPotter_API/AppHarryPotter2/app/src/main/res/layout/movies_card_layout.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/bialp/Desktop/GitHub/HarryPotter_API/AppHarryPotter2/app/src/main/res/layout/movies_card_layout.xml" value="0.1" />
         <entry key="..\:/Users/bialp/Desktop/GitHub/HarryPotter_API/AppHarryPotter2/app/src/main/res/layout/nav_header.xml" value="0.1" />
         <entry key="..\:/Users/bialp/Desktop/GitHub/HarryPotter_API/AppHarryPotter2/app/src/main/res/layout/widget.xml" value="0.359375" />
         <entry key="..\:/Users/bialp/Desktop/GitHub/HarryPotter_API/AppHarryPotter2/app/src/main/res/menu/nav_menu.xml" value="0.1" />
