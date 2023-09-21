@@ -40,7 +40,7 @@ public class BooksCard extends LinearLayout{
             @Override
             public void onClick(View v) {
                 if (title.equals("Harry Potter e a Pedra Filosofal")) {
-                    Intent intent = new Intent(getContext(), filme1.class);
+                    Intent intent = new Intent(getContext(), book1.class);
                     getContext().startActivity(intent);
                 } else if (title.equals("Harry Potter e a Câmara Secreta")) {
                     Intent intent = new Intent(getContext(), filme2.class);

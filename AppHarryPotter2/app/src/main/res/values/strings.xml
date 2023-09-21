@@ -19,6 +19,19 @@
     <string name="filme1">ﾠﾠﾠﾠHARRY POTTER E A PEDRA FILOSOFAL...</string>
     <string name="resumo1">ﾠﾠInicialmente, os garotos acreditavam que a Pedra Filosofal, que se encontrava protegida em Hogwarts, fosse alvo de Severo Snape, professor da escola, para que este se tornasse rico. Mas os garotos descobrem que Voldemort, enfraquecido, está à procura da Pedra para se tornar um grande bruxo novamente.ﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ</string>
 
+    //Tela - Livro 1
+    <string name="livro1">ﾠﾠﾠﾠHARRY POTTER E A PEDRA FILOSOFAL...</string>
+    <string name="resumolivro1">ﾠﾠInicialmente, os garotos acreditavam que a Pedra Filosofal, que se encontrava protegida em Hogwarts, fosse alvo de Severo Snape, professor da escola, para que este se tornasse rico. Mas os garotos descobrem que Voldemort, enfraquecido, está à procura da Pedra para se tornar um grande bruxo novamente.ﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ</string>
+    <string name="autor1">ﾠﾠﾠﾠAUTOR...</string>
+    <string name="autor1.1">ﾠﾠJ. K. Rowlingﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ</string>
+    <string name="anolanc">ﾠﾠﾠﾠANO DE LANÇAMENTO...</string>
+    <string name="anolanc1">ﾠﾠ1997ﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ</string>
+    <string name="ordem">ﾠﾠﾠﾠORDEM CRONOLÓGICA...</string>
+    <string name="ordem1">ﾠﾠ1 º Primeiroﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ</string>
+    <string name="numpages">ﾠﾠﾠﾠNÚMERO DE PÁGINAS...</string>
+    <string name="numpages1">ﾠﾠ317ﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ</string>
+    <string name="linklivro">COMPRAR LIVRO</string>
+    <string name="resumo11">ﾠﾠﾠﾠRESUMO...</string>
 
     //Tela - Filme 2
     <string name="filme2">ﾠﾠﾠﾠHARRY POTTER E A CÂMARA SECRETA...</string>

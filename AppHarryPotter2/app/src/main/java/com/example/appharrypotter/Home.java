@@ -19,6 +19,12 @@ public class Home extends AppCompatActivity {
         Intent intent = new Intent(this,menu.class);
         startActivity(intent);
     }
+
+    //Acesso as telas de livros
+    public void btnlivro1(View view) {
+        Intent intent = new Intent(this,book1.class);
+        startActivity(intent);
+    }
     //Acesso as telas de filmes
     public void btnfilme1(View view) {
         Intent intent = new Intent(this,filme1.class);
